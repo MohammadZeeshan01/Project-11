@@ -9,7 +9,7 @@
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-green)
 
-<!-- ## Project 11 [Live Link](https://live-proj-11.netlify.app) -->
+## Project 11 [Live Link](https://zeeshan-html-css-project-11.netlify.app)
 
 -   Skills Gained in this project
     -   Learned to create linear gradient border
